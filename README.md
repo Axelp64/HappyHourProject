@@ -1,6 +1,7 @@
 # 🍹 Projet de Webscraping : Happy Hours à Toulouse 🍻
 
 **Auteur** : Penacq Axel
+
 **Date** : 2024-05-17 
 
 # Introduction 🎉
