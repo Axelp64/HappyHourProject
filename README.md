@@ -62,7 +62,7 @@ Créer une carte interactive des bars en utilisant Leaflet, incluant les donnée
 - 🐍 Python pour la préparation des données
 
 ### Résultats
-Une carte interactive affichant les bars avec leurs horaires d'happy hour et les prix est créée.
+Une carte interactive affichant les bars avec leurs horaires d'ouvertures et les prix est créée.
 
 # Conclusion 🍾
 
