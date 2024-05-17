@@ -1,9 +1,7 @@
----
-title: "🍹 Projet de Webscraping : Happy Hours à Toulouse 🍻"
-author: "Penacq Axel"
-date: "2024-05-17"
+# 🍹 Projet de Webscraping : Happy Hours à Toulouse 🍻
 
----
+**Auteur** : Votre Nom  
+**Date** : 2024-05-17 
 
 # Introduction 🎉
 
